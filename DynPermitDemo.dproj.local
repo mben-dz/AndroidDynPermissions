@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android64="UG8L4TIRPVMVOVDM" Android="UG8L4TIRPVMVOVDM"/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.974,D:\2027\Mobile\AndroidPermissions\Unit1.pas=D:\2027\Mobile\AndroidPermissions\API\Permissions\API.DynamicPermissions.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.365,=D:\2027\Mobile\AndroidPermissions\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.372,D:\2027\Mobile\AndroidPermissions\Unit1.pas=D:\2027\Mobile\AndroidPermissions\API\API.Types.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.675,D:\2027\Mobile\AndroidPermissions\TabbedApplication.dproj=D:\2027\Mobile\AndroidPermissions\DynPermitDemo.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.894,=D:\2027\Mobile\AndroidPermissions\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.955,D:\2027\Mobile\AndroidPermissions\TabbedTemplate.fmx=D:\2027\Mobile\AndroidPermissions\Main.View.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.955,D:\2027\Mobile\AndroidPermissions\TabbedTemplate.pas=D:\2027\Mobile\AndroidPermissions\Main.View.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.801,=D:\2027\Mobile\AndroidPermissions\API\Telephony\API.Telephony.Infos.pas</Transaction>
+    <Transaction>2024-10-17 02:32:25.222,=D:\2027\Mobile\AndroidPermissions\Unit1.pas</Transaction>
+    <Transaction>2024-10-17 02:32:47.943,D:\2027\Mobile\AndroidPermissions\API\API.Resources.pas=D:\2027\Mobile\AndroidPermissions\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
